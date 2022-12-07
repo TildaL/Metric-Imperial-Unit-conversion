@@ -42,14 +42,21 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 1px dotted red;
+    /* border: 1px dotted red; */
+    background-color: #F4F4F4;
 }
 
 section {
     width: 500px;
     height:110px;
-    border: 1px solid #6943FF;
+    /* border: 1px solid #464354; */
     text-align: center;
+    margin-top: 20px;
+    background-color: #fff;
+}
+
+#num1 {
+    margin-top: 35px;
 }
 
 h2 {
