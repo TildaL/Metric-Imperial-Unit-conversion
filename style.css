@@ -23,9 +23,10 @@ h1 {
     border: 2px solid #B295FF;
     border-radius: 5px;
     margin-bottom: 30px;
+    text-align: center;
 }
 
-.btn {
+#convert-btn {
     width: 117px;
     height: 42px;
     background: #fff;
